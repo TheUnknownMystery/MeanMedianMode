@@ -1,9 +1,5 @@
-UserAge = int(input("Please Enter you Age"))
+Numbers = [1, 2, 4, 5, 7, 8, 5, 4, 2, 10]
 
-if(UserAge > 18):
-    print("You are an adult!")
-elif (UserAge > 13):
-    print("You are a teenager")
-else:
-    print("You are a kid")
- 
+for i in Numbers:
+    if(i == 10):
+        print("10 found")
