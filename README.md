@@ -1,0 +1,2 @@
+# MeanMedianMode
+Mean median mode
